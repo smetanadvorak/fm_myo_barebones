@@ -1,0 +1,9 @@
+*.DS_Store
+*.egg-info
+examples/classification/data/*
+!examples/classification/data/.gitkeep
+examples/classification/models/*
+!examples/classification/models/.gitkeep
+*.pyo
+*.pyc
+
