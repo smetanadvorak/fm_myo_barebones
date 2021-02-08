@@ -28,9 +28,11 @@ If you are familiar with virtual environments, create a new one and proceed to s
 
 ### 1. Install MyoConnect
 
-Download MyoConnect from Thalmic's [official web-site](https://support.getmyo.com/hc/en-us/articles/360018409792). Available for Windows and MacOS, a simple installation.
+Install MyoConnect from the provided setup file: [Windows](https://www.dropbox.com/s/2dfv0gpqq0c2qrp/Myo_Connect_Installer.exe?dl=0), [MacOS](https://www.dropbox.com/s/ua43z9n2rib4hv3/MyoConnect.dmg?dl=0).
 
-To set up MyoConnect for work, run it, then right-click on its icon in task bar, select __Preferences__, and uncheck all options in all tabs. Then, right-click on icon again, select __Application Manager__ and uncheck all options here too. 
+To connect and use the armband, please follow the official tutorial within MyoConnect.
+
+Later, to set up MyoConnect for a comfortable work, run it, then right-click on its icon in task bar, select __Preferences__, and uncheck all options in all tabs. Then, right-click on icon again, select __Application Manager__ and uncheck all options here too. 
 
 ### 2. Create a new __python 3.8__ virtual environment (explained for Anaconda):
 
