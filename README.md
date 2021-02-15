@@ -24,8 +24,6 @@ In this project, we build an infrastructure around __myo-python__ library that w
 ### 0. Install Anaconda
 If you are not familiar with Python and virtual environments, I suggest using Anaconda. Download a Python 3.7 Anaconda from [the official site](https://www.anaconda.com/products/individual) and install it. Use default installation options.
 
-If you are familiar with virtual environments, create a new one and proceed to step __3__. 
-
 ### 1. Install MyoConnect
 
 Install MyoConnect from the provided setup file: [Windows](https://www.dropbox.com/s/2dfv0gpqq0c2qrp/Myo_Connect_Installer.exe?dl=0), [MacOS](https://www.dropbox.com/s/ua43z9n2rib4hv3/MyoConnect.dmg?dl=0).
